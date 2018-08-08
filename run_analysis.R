@@ -48,6 +48,7 @@ final <- rbind(testing, training)
 summary <- tbl_df(final) %>% 
            group_by(Subject, Activity) %>%
            summarise_all(mean)
+write.table(summary, file = "summary.txt", row.names = FALSE)
 
 
 
