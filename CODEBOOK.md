@@ -1,4 +1,4 @@
-Below is the original code book from the original dataset.  First is a desription of 'summary.txt' created by run_anlaysis.R.
+Below is the original code book from the original dataset.  First is a desription of 'summary.txt' created by run_anlaysis.R added by Scott Harrison for the Getting and Cleaning Data programming assignment.
 
 'summary.txt' Code Book
 =======================
